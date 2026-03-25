@@ -78,7 +78,7 @@ Use compact mode and description truncation to feed data into AI agents, MCP ser
 Use this actor on Apify to extract structured data from pracuj.pl. Set your search query and filters in the input, then run — no coding needed.
 
 **Is there a pracuj API?**
-pracuj.pl does not provide a public API. This actor works as an unofficial API, returning structured JSON data from pracuj.
+pracuj.pl does not offer a structured data export. This actor works as an unofficial API, returning structured JSON data from pracuj.
 
 **Is it legal to scrape pracuj.pl?**
 Web scraping of publicly available data is generally legal. This actor only accesses publicly visible information. Always check the target site's terms of service for your specific use case.
