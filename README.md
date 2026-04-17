@@ -2,11 +2,12 @@
 
 Extract structured data from [pracuj.pl](https://pracuj.pl) — structured job listings from pracuj.pl — Poland's #1 job board. Structured salary parsing, incremental mode, 30+ output fields.
 
-**[Pracuj Scraper on Apify →](https://apify.com/blackfalcondata/pracuj-scraper)**
+**[Pracuj Scraper - Poland’s #1 Job Board on Apify →](https://apify.com/blackfalcondata/pracuj-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [pracuj.pl](https://pracuj.pl) — structured job l
 ---
 
 ## Use cases
+
 
 
 
@@ -89,6 +91,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
